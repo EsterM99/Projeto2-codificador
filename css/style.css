@@ -106,6 +106,8 @@
     border-radius: 16px;
     padding: 16px;
     margin: 16px;
+    cursor: pointer;
+    text-decoration: none;
   }
   
   #steps {
@@ -152,3 +154,4 @@
   background-color: #7c0160;
   height: 60px;
 }
+
